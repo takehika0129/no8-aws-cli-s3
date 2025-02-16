@@ -3,9 +3,7 @@
 <br>
 
 ## Install AWS CLI (If Not Installed)
-See [AWS documantation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
-
-<br>
+[AWS documantation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
 
 ## Authentication Methods
 ### Using IAM Roles
