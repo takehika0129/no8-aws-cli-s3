@@ -2,7 +2,7 @@
 
 <br>
 
-## Install AWS CLI (If Not Installed)
+## Install AWS CLI
 [AWS documantation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
 ## Authentication Methods
