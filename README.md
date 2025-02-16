@@ -1,11 +1,9 @@
 # Use AWS CLI to Operate an S3 Bucket
 
-<br>
-
 ## Install AWS CLI
 [AWS documantation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
-## Authentication Methods
+## Authentication
 ### Using IAM Roles
 - Create an IAM Role with S3 permissions.
 - Attach it to your EC2 instance.
