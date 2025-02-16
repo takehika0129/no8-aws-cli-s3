@@ -11,9 +11,6 @@
 - Attach it to your EC2 instance.
 - Run S3 commands without `aws configure`.
 
-### Using Environment Variables
-⚠ Security Note: Storing AWS credentials in environment variables can pose security risks. Avoid hardcoding credentials in scripts or storing them in shared environments. 
-
 ## Usage
 - Upload a File to S3
 ```sh
